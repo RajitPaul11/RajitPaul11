@@ -1,6 +1,6 @@
 ## Hi there, my name is Rajit Paul and I hope you are doing good👋
 
-<img align='center' src='https://c4.wallpaperflare.com/wallpaper/368/224/47/lawns-grass-digital-art-dirt-wallpaper-preview.jpg' width='800' height='250'>
+<img align='center' src='https://scontent.fccu3-1.fna.fbcdn.net/v/t39.30808-6/fr/cp0/e15/q65/273403320_5807282519288726_8359725201397487206_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=dd9801&_nc_ohc=oVCOGjAQ_WgAX-xpV2q&_nc_ht=scontent.fccu3-1.fna&oh=00_AT_bP1Lfph-Q1wec20PaFlcWYoDxgFHSXudEh7BRRxdboQ&oe=62157A59' width='800' height='250'>
 
 - 💼 I'm currently working as a Cloud & DevOps Engineer at **Workmates Core2Cloud**, an advanced AWS Consulting Partner.
 - 🎖️ I'm certified on AWS & Redhat.
