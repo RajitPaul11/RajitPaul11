@@ -2,11 +2,11 @@
 
 <img align='center' src='save_soil.png' width='800' height='250'>
 
-- 💼 I'm currently working as a Cloud & DevOps Engineer at **Workmates Core2Cloud**, an advanced AWS Consulting Partner.
-- 🎖️ I'm certified on AWS & Redhat.
-- My activities based on opportunities include - 🚴‍♂️, 🏕️, ⚽, 🕯️, 🏊🏻‍♂️, 🕺....
-- 🕸️ I love to learn and network with people in and also out of my domain.
-- I maintain a dedicated time everyday to do nothing.
+- 👷 I'm an AWS Community Builder #Containers 
+- 💼 Working as a Cloud & Jr DevOps Engineer at **Workmates Core2Cloud**, an advanced AWS Consulting Partner.
+- 🎖️ Certified on AWS & Redhat.
+- 🚴‍♂️, 🏕️, ⚽,🧘🏽, 🏊🏻‍♂️, 🕺-> This is what I like to do when I get some alone time.
+- 🌱 I'm a part time volunteer at Isha Foundation, currently a part of the #SaveSoil Movement.
 
 
 <!--
