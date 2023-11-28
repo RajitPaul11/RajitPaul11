@@ -3,10 +3,11 @@
 <img align='center' src='save_soil.png' width='800' height='250'>
 
 - 👷 I'm an AWS Community Builder #Containers 
-- 💼 Working as a Cloud & Jr DevOps Engineer at **Workmates Core2Cloud**, an advanced AWS Consulting Partner.
-- 🎖️ Certified on AWS & Redhat.
-- 🚴‍♂️, 🏕️, ⚽,🧘🏽, 🏊🏻‍♂️, 🕺-> This is what I like to do when I get some alone time.
-- 🌱 I'm a part time volunteer at Isha Foundation, currently a part of the #SaveSoil Movement.
+- 💼 Learn and share about DevOps.
+- 🎖️ AWS, Redhat, CKA Certified.
+- I have ran multiple half marathons and preparing for a full marathon 🙌
+- 🧘 Yoga is the way. #InnerEngineered
+- 🌱 Volunteer at Isha Yoga Center.
 
 
 <!--
